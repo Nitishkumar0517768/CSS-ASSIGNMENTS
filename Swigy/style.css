@@ -1,0 +1,120 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.big-container{
+    border: 1px solid black;
+    width: 1000px;
+    height: 1500px;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.navigation{
+    height: 35px;
+    width: 1000px;
+    margin-top: 10px;
+    display: flex;
+    
+}
+
+.location{
+    height: 35px;
+    width: 35px;
+    background-color: blue;
+    margin-left: 10px;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.nonloc{
+    height: 35px;
+    width: 950px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.addloc{
+    height: 35px;
+    width: 200px;
+}
+
+.addloc1{
+    margin-left: 10px;
+    margin-top: 2px;
+}
+
+.profile{
+    height: 35px;
+    width: 30px;
+    text-align: center;
+}
+
+.search-bar1{
+    border: 1px solid rgb(42, 42, 42);
+    height: 35px;
+    width: 920px;
+    margin-left: 40px;
+    margin-top: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px rgb(94, 94, 94);
+}
+
+.frame1{
+    border: 1px solid blue;
+    height: 510px;
+    width: 950px;
+    background-color: rgb(22, 82, 246);
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+.movement{
+    height: 400px;
+    width: 950px;
+}
+
+.movement img{
+    height: 400px;
+    width: 800px;
+    margin-left: 75px;
+}
+
+.adds{
+    height: 150px;
+    width: 950px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.tomato{
+    height: 110px;
+    width: 75px;
+
+}
+
+.tomato img{
+    height: 100px;
+    width: 75px;
+}
+
+.products1{
+    width: 950px;
+    height: 200px;
+    margin: 10px 25px ;
+    display: flex;
+    justify-content: space-around;
+}
+
+.coke{
+    border: 1px solid black;
+    height: 200px;
+    width: 120px;
+}
+
+.coke img{
+    height: 120px;
+}
